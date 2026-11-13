@@ -2,9 +2,9 @@
 
 Master's thesis (Master's Project) by **Jakob Kauffmann**, Department of Computer Science, San José State University, Spring 2026.
 
-**Status:** Defended May 2026. The full text and code are under embargo until May 2027. This repository holds the abstract and citations only.
+**Status:** Defended May 2026. The full text, code, released model weights, and a Colab demo are now public in **[JakobKauffmann/GLADA](https://github.com/JakobKauffmann/GLADA)** ([thesis PDF](https://github.com/JakobKauffmann/GLADA/blob/main/docs/kauffmann_2026_ms_thesis.pdf)). This repository keeps the abstract and citations.
 
-**DOI:** [10.31979/etd.kmc6-t6vf](https://doi.org/10.31979/etd.kmc6-t6vf) · [ScholarWorks record](https://scholarworks.sjsu.edu/etd_projects/1804) (full text available for download on May 26, 2027)
+**DOI:** [10.31979/etd.kmc6-t6vf](https://doi.org/10.31979/etd.kmc6-t6vf) · [ScholarWorks record](https://scholarworks.sjsu.edu/etd_projects/1804) (the ScholarWorks download opens May 26, 2027)
 
 **Advisor:** Dr. Faranak Abri · **Committee:** Dr. Amith Kamath Belman, Dr. Saptarshi Sengupta
 
@@ -19,10 +19,10 @@ From the [ScholarWorks record](https://scholarworks.sjsu.edu/etd_projects/1804):
 ## Publications from this research
 
 - J. Kauffmann, F. Abri, and J. Webb, "Per-Layer-Group Bottlenecking for Cross-Domain Audio Deepfake Detection," IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2026), accepted.
-- J. Kauffmann, F. Abri, and J. Webb, "Speech Deepfake Detection: A Survey of Methods, Benchmarks, and Generalization Challenges," in *Artificial Intelligence for Cyber Defense in Emerging Threats*, M. Stamp, Ed. Springer, forthcoming 2027.
+- J. Kauffmann, F. Abri, J. Webb, and S. Sengupta, "Speech Deepfake Detection: A Survey of Methods, Benchmarks, and Generalization Challenges," in *Artificial Intelligence for Cyber Defense in Emerging Threats*, M. Stamp, Ed. Springer, forthcoming (expected February 2027).
 - J. Kauffmann, F. Abri, and J. Webb, "Audio Deepfake Detection: Cross-Domain Generalization and Grouped Layer Adversarial Domain Adaptation," IEEE COMPSAC 2026, accepted, withdrawn. An earlier paper on grouped layer adversarial domain adaptation (GLADA), written before the per-layer-group bottleneck work.
 
-Links to the ICTAI paper and the chapter will be added once they are published.
+Links to the ICTAI paper and the chapter will be added once they are published. Code for the ICTAI paper is in [GLADA](https://github.com/JakobKauffmann/GLADA).
 
 ## Citation
 
@@ -47,13 +47,13 @@ Links to the ICTAI paper and the chapter will be added once they are published.
 }
 
 @incollection{kauffmann2027survey,
-  author    = {Kauffmann, Jakob and Abri, Faranak and Webb, Jade},
+  author    = {Kauffmann, Jakob and Abri, Faranak and Webb, Jade and Sengupta, Saptarshi},
   title     = {Speech Deepfake Detection: A Survey of Methods, Benchmarks, and Generalization Challenges},
   booktitle = {Artificial Intelligence for Cyber Defense in Emerging Threats},
   editor    = {Stamp, Mark},
   publisher = {Springer},
   year      = {2027},
-  note      = {Forthcoming}
+  note      = {Forthcoming, expected February 2027}
 }
 ```
 
